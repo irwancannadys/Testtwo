@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Testtwo"
         tools:targetApi="31">
         <activity
-            android:name=".HomeActivity"
+            android:name=".view.home.HomeMainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,10 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BiodataActivity"
+        <activity android:name=".view.biodata.BiodataActivity"
             android:parentActivityName=".HomeActivity"/>
-        <activity android:name=".LoginActivity"
+        <activity android:name=".view.login.LoginActivity"
             android:parentActivityName=".HomeActivity"/>
+        <activity android:name=".view.profile.ProfileActivity"/>
+        <activity android:name=".view.detail.DetailNewsActivity"/>
     </application>
 
 </manifest>

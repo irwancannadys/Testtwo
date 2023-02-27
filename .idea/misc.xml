@@ -3,9 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/background_rounded_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/background_rounded_outline_black.xml" value="0.1265" />
+        <entry key="app/src/main/res/drawable/ic_baseline_verified_user_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.136" />
         <entry key="app/src/main/res/layout/activity_biodata.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_detail_news.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_home_main.xml" value="0.1935788479697828" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.20825439453125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/item_category.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/item_news.xml" value="0.2" />
       </map>
     </option>
   </component>

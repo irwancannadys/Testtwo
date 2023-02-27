@@ -1,4 +1,4 @@
-package com.example.testtwo
+package com.example.testtwo.view.biodata
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

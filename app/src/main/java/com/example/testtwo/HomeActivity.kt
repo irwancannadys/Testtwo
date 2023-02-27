@@ -4,6 +4,8 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.testtwo.databinding.ActivityMainBinding
+import com.example.testtwo.view.biodata.BiodataActivity
+import com.example.testtwo.view.login.LoginActivity
 
 class HomeActivity : AppCompatActivity() {
 
